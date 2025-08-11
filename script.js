@@ -27,3 +27,8 @@ function atm(){
     console.log('this is my ATM');
 }
 atm();
+
+function Bigfix(){
+    console.log('bux is fixed');
+}
+Bigfix();

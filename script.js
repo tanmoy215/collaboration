@@ -16,3 +16,8 @@ function withdral(){
 }
 
 withdral();
+
+function Deposite(){
+    console.log('this is my Deposite section');
+}
+Deposite();

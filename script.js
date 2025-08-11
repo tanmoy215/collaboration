@@ -7,3 +7,7 @@ let login = 'login is added';
 
 
  let authen = 'authentication added';
+
+
+ const footer = 'this is footer section';
+ console.log(footer);

@@ -38,6 +38,11 @@ function tom(){
 }
 tom();
 
+
+function dev2(){
+    console.log("This is Dev-2 login");
+}
+dev2();
 function dev(){
     console.log("This is my development Branch");
 }

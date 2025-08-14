@@ -37,3 +37,9 @@ function tom(){
     console.log('my name is tanmoy majee');
 }
 tom();
+
+
+function dev2(){
+    console.log("This is Dev-2 login");
+}
+dev2();

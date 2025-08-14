@@ -65,3 +65,9 @@ function dev11(){
     console.log("This is my second Commit in dev2");
 }
  dev11();
+
+
+ function Bistom(){
+    console.log("This is is bistom");
+ }
+ Bistom();

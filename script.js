@@ -54,8 +54,6 @@ function dev(){
 dev();
 
 
-
-
 function dev22(){
     console.log("This is the second chnage of dev22");
 }
@@ -65,3 +63,14 @@ function dev11(){
     console.log("This is my second Commit in dev2");
 }
  dev11();
+
+
+ function Bistom(){
+    console.log("This is is bistom");
+ }
+ Bistom();
+ function ts(){
+    console.log('hai, i am Tanmoy');
+    console.log('This is dev-2 missing the name as de-1-login');
+ }
+ ts();

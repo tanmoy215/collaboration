@@ -64,6 +64,11 @@ function dev11(){
 }
  dev11();
 
+
+ function Bistom(){
+    console.log("This is is bistom");
+ }
+ Bistom();
  function ts(){
     console.log('hai, i am Tanmoy');
     console.log('This is dev-2 missing the name as de-1-login');

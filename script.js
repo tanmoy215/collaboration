@@ -37,3 +37,18 @@ function tom(){
     console.log('my name is tanmoy majee');
 }
 tom();
+
+
+function dev1_login(){
+    console.log('This is Dev-1 Login');
+}
+dev1_login();
+
+function dev2(){
+    console.log("This is Dev-2 login");
+}
+dev2();
+function dev(){
+    console.log("This is my development Branch");
+}
+dev();

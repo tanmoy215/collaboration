@@ -32,3 +32,8 @@ function Bigfix(){
     console.log('bux is fixed');
 }
 Bigfix();
+
+function tom(){
+    console.log('my name is tanmoy majee');
+}
+tom();
